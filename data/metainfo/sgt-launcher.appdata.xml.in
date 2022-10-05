@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017-2020 Sean Davis <sean@bluesabre.org> -->
+<component type="desktop-application">
+  <id>org.bluesabre.SgtLauncher</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <content_rating type="oars-1.0" />
+  <name>SGT Puzzles Collection</name>
+  <_summary>Launcher for Simon Tatham's Portable Puzzle Collection</_summary>
+
+  <description>
+    <_p>SGT Puzzles Collection is a simple-to-use launcher for Simon Tatham's Portable Puzzle Collection.</_p>
+    <_p>The collection is presented as a related but diverse set of logic games. Each game is displayed in the launcher window with simplified controls.</_p>
+  </description>
+
+  <launchable type="desktop-id">org.bluesabre.SgtLauncher.desktop</launchable>
+
+  <screenshots>
+    <screenshot type="default">
+      <_caption>The launcher window</_caption>
+      <image>https://screenshots.bluesabre.org/sgt-launcher/sgt-launcher-01.png</image>
+    </screenshot>
+    <screenshot>
+      <_caption>Playing a short game of Galaxies</_caption>
+      <image>https://screenshots.bluesabre.org/sgt-launcher/sgt-launcher-02.png</image>
+    </screenshot>
+  </screenshots>
+
+  <url type="homepage">https://github.com/bluesabre/sgt-launcher</url>
+  <url type="bugtracker">https://github.com/bluesabre/sgt-launcher/issues</url>
+  <url type="donation">https://bluesabre.org/donate</url>
+  <url type="translate">https://www.transifex.com/bluesabreorg/sgt-puzzles-collection/</url>
+
+  <provides>
+    <binary>sgt-launcher</binary>
+  </provides>
+
+  <releases>
+    <release version="0.2.7" date="2021-09-11">
+      <description>
+        <_p>This release includes improved support for various desktop environments and updated translations.</_p>
+      </description>
+    </release>
+    <release version="0.2.6" date="2020-07-30">
+      <description>
+        <_p>This release includes some minor fixes and updated translations.</_p>
+      </description>
+    </release>
+    <release version="0.2.5" date="2020-02-19">
+      <description>
+        <_p>This release features improved game launching and adds a bug reporting link to the menu.</_p>
+      </description>
+    </release>
+    <release version="0.2.4" date="2018-04-11">
+      <description>
+        <_p>This is a minor translations-only release.</_p>
+      </description>
+    </release>
+    <release version="0.2.3" date="2017-10-03">
+      <description>
+        <_p>The Preferences menu item has been removed and several translations have been included.</_p>
+      </description>
+    </release>
+    <release version="0.2.2" date="2017-01-29">
+      <description>
+        <_p>Non-existent launchers are no longer displayed. The application launcher now links to the correct binary.</_p>
+      </description>
+    </release>
+  </releases>
+</component>

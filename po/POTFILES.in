@@ -1,0 +1,8 @@
+# Desktop File
+org.bluesabre.SgtLauncher.desktop.in
+
+# Python Files
+sgtlauncher/SgtLauncher.py
+
+# XML Files
+[type: gettext/xml]data/metainfo/sgt-launcher.appdata.xml.in
