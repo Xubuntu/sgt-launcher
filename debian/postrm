@@ -40,6 +40,8 @@ if [ remove = "$1" -o abort-install = "$1" -o disappear = "$1" ]; then
     dpkg-divert --package sgt-launcher --remove --rename \
        --divert /usr/share/applications/sgt-mines.desktop.orig /usr/share/applications/sgt-mines.desktop
     dpkg-divert --package sgt-launcher --remove --rename \
+       --divert /usr/share/applications/sgt-mosaic.desktop.orig /usr/share/applications/sgt-mosaic.desktop
+    dpkg-divert --package sgt-launcher --remove --rename \
        --divert /usr/share/applications/sgt-net.desktop.orig /usr/share/applications/sgt-net.desktop
     dpkg-divert --package sgt-launcher --remove --rename \
        --divert /usr/share/applications/sgt-netslide.desktop.orig /usr/share/applications/sgt-netslide.desktop

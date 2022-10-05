@@ -11,8 +11,10 @@ sgt-launcher (0.2.8-0ubuntu1) UNRELEASED; urgency=medium
     - Update email address
   * d/watch:
     - Add hack for retrieving GitHub releases
+  * d/preinst, d/postrm:
+    - Add sgt-mosaic.desktop diversions
 
- -- Sean Davis <sean@bluesabre.org>  Tue, 04 Oct 2022 23:28:58 -0400
+ -- Sean Davis <sean@bluesabre.org>  Wed, 05 Oct 2022 00:21:19 -0400
 
 sgt-launcher (0.2.7-0ubuntu1) impish; urgency=medium
 
