@@ -1,4 +1,4 @@
-sgt-launcher (0.2.8-0ubuntu1) UNRELEASED; urgency=medium
+sgt-launcher (0.2.8-0ubuntu1) kinetic; urgency=medium
 
   * New upstream release.
     - Add support for new Mosiac game in sgt-puzzles (LP: #1991468)
@@ -14,7 +14,7 @@ sgt-launcher (0.2.8-0ubuntu1) UNRELEASED; urgency=medium
   * d/preinst, d/postrm:
     - Add sgt-mosaic.desktop diversions
 
- -- Sean Davis <sean@bluesabre.org>  Wed, 05 Oct 2022 00:21:19 -0400
+ -- Sean Davis <sean@bluesabre.org>  Wed, 05 Oct 2022 07:40:32 -0400
 
 sgt-launcher (0.2.7-0ubuntu1) impish; urgency=medium
 
