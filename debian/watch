@@ -1,4 +1,5 @@
 version=4
-opts=pgpsigurlmangle=s/$/.asc/ \
-https://github.com/bluesabre/sgt-launcher/releases \
-(?:.*/|)sgt-launcher(?:-|_|_v|\.|V|)(\d\S*)\.(?:tar\.(?:gz|bz2|xz)|tgz|tbz2|txz|zip)
+opts=downloadurlmangle=s/archive\/refs\/tags\/@PACKAGE@-(.*)\.tar\.gz/releases\/download\/@PACKAGE@-$1\/@PACKAGE@-$1\.tar\.gz/,\
+pgpsigurlmangle=s/$/.asc/ \
+https://github.com/bluesabre/@PACKAGE@/tags \
+/bluesabre/@PACKAGE@/archive/refs/tags/@PACKAGE@-(.*)\.tar\.gz
