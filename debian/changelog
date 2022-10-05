@@ -1,5 +1,7 @@
-sgt-launcher (0.2.7-0ubuntu2) UNRELEASED; urgency=medium
+sgt-launcher (0.2.8-0ubuntu1) UNRELEASED; urgency=medium
 
+  * New upstream release.
+    - Add support for new Mosiac game in sgt-puzzles (LP: #1991468)
   * d/control:
     - Add Vcs-{Git,Browser}
   * d/control, d/copyright:
@@ -7,7 +9,7 @@ sgt-launcher (0.2.7-0ubuntu2) UNRELEASED; urgency=medium
   * d/watch:
     - Add hack for retrieving GitHub releases
 
- -- Sean Davis <sean@bluesabre.org>  Tue, 04 Oct 2022 23:00:29 -0400
+ -- Sean Davis <sean@bluesabre.org>  Tue, 04 Oct 2022 23:05:45 -0400
 
 sgt-launcher (0.2.7-0ubuntu1) impish; urgency=medium
 
