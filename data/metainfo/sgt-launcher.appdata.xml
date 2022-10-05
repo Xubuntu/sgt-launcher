@@ -11,13 +11,17 @@
   <summary xml:lang="es">Lanzadpr de la colección portátil de puzles de Simon Tatham</summary>
   <summary xml:lang="fi">Käynnistin Simon Tathamin siirrettävälle pulmapelikokoelmalle</summary>
   <summary xml:lang="fr">Lanceur pour la collection de puzzles portables de Simon Tatham</summary>
+  <summary xml:lang="it">Lanciatore per la collezione di puzzle portatili di Simon Tatham</summary>
   <summary xml:lang="lt">Leistukas, skirtas Simon'o Tatham'o perkeliamų galvosūkių kolekcijai</summary>
   <summary xml:lang="ms">Pelancar untuk Himpunan Teka-Teki Mudah Alih milik Simon Tatham</summary>
   <summary xml:lang="ms@Arab">ڤلنچر اونتوق هيمڤونن تکا-تکي موده اليه ميليق Simon Tatham</summary>
   <summary xml:lang="nl">Starter voor Simon Tathams Draagbare Puzzelverzameling</summary>
   <summary xml:lang="pl">Program uruchamiający gry z Kolekcji Gier Logicznych Simona Tathama</summary>
-  <summary xml:lang="pt">Lançador para a colecção portátil de quebra-cabeças de  Simon Tatham</summary>
+  <summary xml:lang="pt">Lançador para a coleção portátil de quebra-cabeças de  Simon Tatham</summary>
+  <summary xml:lang="pt_PT">Lançador para a coleção portátil de quebra-cabeças de Simon Tatham</summary>
+  <summary xml:lang="ru">Программа для запуска коллекции портативных головоломок Саймона Тэтхема</summary>
   <summary xml:lang="sv">Startare för Simon Tathams portabla pusselsamling</summary>
+  <summary xml:lang="tr">Simon Tatham'ın Taşınabilir Bulmaca Koleksiyonu için Başlatıcı</summary>
   <summary xml:lang="zh_CN">Simon Tatham 可移植益智集合的简易启动器</summary>
 
   <description>
@@ -27,13 +31,17 @@
     <p xml:lang="es">La colección de puzles SGT es un lanzador simple de usar para la colección portátil de puzles de Simon Tatham.</p>
     <p xml:lang="fi">SGT pulmapelikokoelma on helppokäyttöinen käynnistin Simon Tathamin siirrettävälle pulmapelikokoelmalle.</p>
     <p xml:lang="fr">La collection de puzzles SGT est un lanceur facile à utiliser pour la collection de puzzles portables de Simon Tatham</p>
+    <p xml:lang="it">SGT Puzzles Collection è un lanciatore semplice da usare per la collezione di puzzle portatili di Simon Tatham.</p>
     <p xml:lang="lt">SGT galvosūkių kolekcija yra paprastas naudoti leistukas, skirtas Simon'o Tatham'o perkeliamų galvosūkių kolekcijai.</p>
     <p xml:lang="ms">Himpunan Teka-Teki SGT ialah pelancar yang mudah untuk digunakan bagi Himpunan Teka-Teki Mudah Alih milik Simon Tatham.</p>
     <p xml:lang="ms@Arab">هيمڤونن تکا-تکي SGT اياله ڤلنچر يڠ موده اونتوق دݢوناکن باݢي هيمڤونن تکا-تکي موده اليه ميليق Simon Tatham.</p>
     <p xml:lang="nl">SGT Puzzelverzameling is een eenvoudige starter voor Simon Tathams Draagbare Puzzelverzameling</p>
     <p xml:lang="pl">SGT Puzzles Collection jest prostym w użyciu programem uruchamiającym gry z kolekcji gier logicznych Simona Tathama.</p>
-    <p xml:lang="pt">Colecção Quebra-cabeças SGT é um lançador simples de usar para a colecção portátil de quebra-cabeças de Simon Tatham</p>
+    <p xml:lang="pt">O Coleção Quebra-cabeças SGT é um lançador simples de usar para a coleção portátil de quebra-cabeças de Simon Tatham</p>
+    <p xml:lang="pt_PT">O Coleção Quebra-cabeças SGT é um lançador simples de usar para a coleção portátil de quebra-cabeças de Simon Tatham.</p>
+    <p xml:lang="ru">SGT Puzzles Collection — это простая в использовании программа для запуска портативной коллекции головоломок Саймона Тэтхема.</p>
     <p xml:lang="sv">SGT Pusselsamling är en startare som är enkel att använda för Simon Tathams portabla pusselsamling.</p>
+    <p xml:lang="tr">SGT Bulmaca Koleksiyonu, Simon Tatham'ın Tanışabilir Bulmaca Koleksiyonu için kullanımı kolay bir başlatıcıdır.</p>
     <p xml:lang="zh_CN">SGT 益智集合是 Simon Tatham 的可移植益智集合的简易启动器。</p>
     <p>The collection is presented as a related but diverse set of logic games. Each game is displayed in the launcher window with simplified controls.</p>
     <p xml:lang="da">Samlingen præsenteres som et relaterede men forskelligartede sæt logiske spil. Hvert spil vises i startervinduet med simple styringer.</p>
@@ -41,13 +49,17 @@
     <p xml:lang="es">La colección se presenta como un conjunto de juegos relacionados pero diversos de lógica. Cada juego se muestra en la ventana del lanzador con controles simplificados.</p>
     <p xml:lang="fi">Kokoelma on esitelty yhtenä kokonaisuutena ja sisältää erilaisia logiikkapelejä. Jokainen peli esitetään käynnistinikkunassa yksinkertaisella tavalla.</p>
     <p xml:lang="fr">Cette collection est composée d'une série de jeux de logiques liés, mais différents. Chaque jeu est affiché dans la fenêtre du lanceur avec des contrôles simplifiés.</p>
+    <p xml:lang="it">La collezione è presentata come un insieme correlato ma diversificato di giochi di logica. Ogni gioco viene visualizzato nella finestra di avvio con controlli semplificati.</p>
     <p xml:lang="lt">Kolekcija yra pateikiama kaip susijusių, tačiau įvairialypių loginių žaidimų rinkinys. Kiekvienas žaidimas yra rodomas leistuko lange su supaprastintais valdikliais.</p>
     <p xml:lang="ms">Himpunan ditunjukkan sebagai set permainan logik yang berkaitan tetapi pelbagai. Setiap permainan dipaparkan di tetingkap pelancar dengan menu kawalan yang dipermudahkan.</p>
     <p xml:lang="ms@Arab">هيمڤونن دتونجوقکن سباݢاي سيت ڤرماٴينن لوݢيک يڠ برکاٴيتن تتاڤي ڤلباݢاي. ستياڤ ڤرماٴينن دڤاڤرکن دتتيڠکڤ ڤلنچر دڠن مينو کاولن يڠ دڤرمودهکن.</p>
     <p xml:lang="nl">De verzameling bevat gelijkaardige, maar van elkaar verschillende, spellen. Elk spel wordt met vereenvoudigde besturing in de starter getoond.</p>
     <p xml:lang="pl">Kolekcja zawiera różnorodne gry logiczne. Każda jest wyświetlana w tym oknie z uproszczonym sterowaniem.</p>
     <p xml:lang="pt">A coleção é apresentada como jogos relacionados, mas diversos, com jogos de lógica. Cada jogo é exibido na janela do lançador com controlos simplificados.</p>
+    <p xml:lang="pt_PT">A colecção é apresentada como um conjunto relacionado mas diversificado de jogos lógicos. Cada jogo é apresentado na janela do lançador com controlos simplificados.</p>
+    <p xml:lang="ru">Сборник представлен в виде взаимосвязанного, но разнообразного набора логических игр.</p>
     <p xml:lang="sv">Samlingen presenteras som en relaterad men mångsidig uppsättning logikspel. Varje spel visas i startfönstret med förenklade kontroller.</p>
+    <p xml:lang="tr">Bu koleksiyon, birbiriyle ilişkili ancak çeşitli mantık oyunları seti olarak sunulmaktadır. Her oyun, basitleştirilmiş denetimlerle başlatıcı penceresinde görüntülenir.</p>
     <p xml:lang="zh_CN">该集合以一组相关但多样的逻辑游戏形式呈现。每个游戏都以简化的控件显示在启动器窗口中。</p>
   </description>
 
@@ -61,13 +73,17 @@
       <caption xml:lang="es">La ventana lanzadora</caption>
       <caption xml:lang="fi">Käynnistinikkuna</caption>
       <caption xml:lang="fr">La fenêtre du lanceur</caption>
+      <caption xml:lang="it">La finestra di avvio</caption>
       <caption xml:lang="lt">Leistuko langas</caption>
       <caption xml:lang="ms">Tetingkap pelancar</caption>
       <caption xml:lang="ms@Arab">تتيڠکڤ ڤلنچر</caption>
       <caption xml:lang="nl">Het startvenster</caption>
       <caption xml:lang="pl">Okno programu uruchamiającego</caption>
       <caption xml:lang="pt">A janela do lançador</caption>
+      <caption xml:lang="pt_PT">A janela do lançador</caption>
+      <caption xml:lang="ru">Окно запуска</caption>
       <caption xml:lang="sv">Startfönstret</caption>
+      <caption xml:lang="tr">Başlatıcı penceresi</caption>
       <caption xml:lang="zh_CN">启动器窗口</caption>
       <image>https://screenshots.bluesabre.org/sgt-launcher/sgt-launcher-01.png</image>
     </screenshot>
@@ -78,13 +94,17 @@
       <caption xml:lang="es">Jugar una partida corta de Galaxias</caption>
       <caption xml:lang="fi">Keskeneräinen lyhyt Galaxies-peli</caption>
       <caption xml:lang="fr">Joue un jeu court de Galaxies</caption>
+      <caption xml:lang="it">Giocare a un breve gioco di Galassie</caption>
       <caption xml:lang="lt">Žaidžiamas trumpas "Galaxies" žaidimas</caption>
       <caption xml:lang="ms">Bermain permainan pendek bernama Galaxies</caption>
       <caption xml:lang="ms@Arab">برماٴين ڤرماٴينن ڤينديق برنام Galaxies</caption>
       <caption xml:lang="nl">Speel een kort Galaxies-spel</caption>
       <caption xml:lang="pl">Krótka rozgrywka w Galaxies</caption>
-      <caption xml:lang="pt">Jogando um curto jogo de Galaxies</caption>
+      <caption xml:lang="pt">Jogar um pequeno jogo de Galáxias</caption>
+      <caption xml:lang="pt_PT">Jogar um pequeno jogo de Galáxias</caption>
+      <caption xml:lang="ru">Играть в короткую игру «Галактики»</caption>
       <caption xml:lang="sv">Spela en kort omgång av Galaxies</caption>
+      <caption xml:lang="tr">Kısa bir Galaksi oyunu oyna</caption>
       <caption xml:lang="uk">Гра в коротку гру Галактики</caption>
       <caption xml:lang="zh_CN">玩一个简短的星系游戏</caption>
       <image>https://screenshots.bluesabre.org/sgt-launcher/sgt-launcher-02.png</image>
@@ -101,6 +121,11 @@
   </provides>
 
   <releases>
+    <release version="0.2.8" date="2022-10-04">
+      <description>
+        <p>This release adds support for the "Mosaic" game and features updated translations.</p>
+      </description>
+    </release>
     <release version="0.2.7" date="2021-09-11">
       <description>
         <p>This release includes improved support for various desktop environments and updated translations.</p>
@@ -111,11 +136,17 @@
         <p>This release includes some minor fixes and updated translations.</p>
         <p xml:lang="da">Udgivelsen inkluderer nogle mindre rettelser og opdaterede oversættelser.</p>
         <p xml:lang="de">Diese Version enthält einige kleinere Korrekturen und aktualisierte Übersetzungen.</p>
+        <p xml:lang="fr">Cette version comprend quelques corrections mineures et des traductions mises à jour.</p>
+        <p xml:lang="it">Questa versione include alcune correzioni minori e traduzioni aggiornate.</p>
         <p xml:lang="ms">Terbitan ini mempunyai beberapa pembaikian kecil dan pengemaskinian terjemahan.</p>
         <p xml:lang="ms@Arab">تربيتن اين ممڤوڽاٴي ببراڤ ڤمباٴيقين کچيل دان ڤڠمسکينين ترجمهن.</p>
         <p xml:lang="nl">Deze uitgave bevat kleine foutoplossingen en bijgewerkte vertalingen.</p>
         <p xml:lang="pl">To wydanie zawiera kilka drobnych poprawek i zaktualizowanych tłumaczeń.</p>
+        <p xml:lang="pt">Esta versão inclui algumas pequenas correções e traduções atualizadas.</p>
+        <p xml:lang="pt_PT">Esta versão inclui algumas pequenas correções e traduções atualizadas.</p>
+        <p xml:lang="ru">Этот выпуск включает в себя незначительные исправления и обновленные переводы.</p>
         <p xml:lang="sv">Denna version innehåller några mindre korrigeringar och uppdaterade översättningar.</p>
+        <p xml:lang="tr">Bu sürüm, bazı küçük düzeltmeler ve güncellenmiş çeviriler içerir.</p>
         <p xml:lang="zh_CN">此版本包括一些小修复和翻译更新。</p>
       </description>
     </release>
@@ -124,12 +155,18 @@
         <p>This release features improved game launching and adds a bug reporting link to the menu.</p>
         <p xml:lang="da">Udgivelsen indeholder forbedret spilstart og der er tilføjet et fejlrapporteringslink i menuen.</p>
         <p xml:lang="de">Diese Version bietet einen verbesserten Spielstart und fügt dem Menü einen Link zum Melden von Fehlern hinzu.</p>
+        <p xml:lang="fr">Cette version améliore le lancement des jeux et ajoute un lien de signalement des bogues dans le menu.</p>
+        <p xml:lang="it">Questa versione offre un avvio del gioco migliorato e aggiunge un collegamento per la segnalazione dei bug al menu.</p>
         <p xml:lang="lt">Šioje laidoje patobulintas žaidimo paleidimas ir į meniu pridėta pranešimo apie klaidas nuoroda.</p>
         <p xml:lang="ms">Terbitan ini mengetengahkan pelancaran permainan yang ditambahbaik dan menambah pautan pelaporan pepijat ke dalam menu.</p>
         <p xml:lang="ms@Arab">تربيتن اين مڠتڠهکن ڤلنچرن ڤرماٴينن يڠ دتمبهباٴيق دان منمبه ڤاٴوتن ڤلاڤورن کدالم مينو.</p>
         <p xml:lang="nl">Deze uitgave bevat verbeteringen omtrent het opstarten van spellen en een bugmeldingslink in hen menu.</p>
         <p xml:lang="pl">Ta wersja zawiera ulepszone uruchamianie gry i dodaje link do zgłaszania błędów do menu.</p>
+        <p xml:lang="pt">Esta versão apresenta um iniciar melhorado do jogo e adiciona uma ligação para reporte de bugs ao menu.</p>
+        <p xml:lang="pt_PT">Esta versão apresenta um iniciar melhorado do jogo e adiciona uma ligação para reporte de bugs ao menu.</p>
+        <p xml:lang="ru">В этом выпуске улучшен запуск игр, в меню добавлена ссылка для создания сообщения об ошибках.</p>
         <p xml:lang="sv">Denna version har förbättrad spelstart och lägger till en länk till felrapportering i menyn.</p>
+        <p xml:lang="tr">Bu sürüm, geliştirilmiş oyun başlatma özelliğine sahiptir ve menüye hata raporlama bağlantısı ekler.</p>
         <p xml:lang="zh_CN">这个版本的特点是改进了游戏启动，并在菜单中添加了错误报告链接。</p>
       </description>
     </release>
@@ -138,12 +175,18 @@
         <p>This is a minor translations-only release.</p>
         <p xml:lang="da">Det er en mindre udgivelse kun til oversættelser.</p>
         <p xml:lang="de">Dies ist eine kleinere Version, die nur Übersetzungen enthält.</p>
+        <p xml:lang="fr">Il s'agit d'une version mineure uniquement pour les traductions.</p>
+        <p xml:lang="it">Questa è una versione minore di sole traduzioni.</p>
         <p xml:lang="lt">Tai yra nedidelė laida su atnaujintais vertimais.</p>
         <p xml:lang="ms">Ini terbitan kecil yang hanya mengandungi kemaskini terjemahan.</p>
         <p xml:lang="ms@Arab">اين تربيتن کچيل يڠ هاڽ مڠندوڠي کمسکيني ترجمهن.</p>
         <p xml:lang="nl">Dit is een kleine uitgave die alleen bijgewerkte vertalingen bevat.</p>
         <p xml:lang="pl">To jest niewielkie wydanie tylko tłumaczenia.</p>
+        <p xml:lang="pt">Esta é uma pequena versão apenas de traduções.</p>
+        <p xml:lang="pt_PT">Esta é uma pequena versão apenas de traduções.</p>
+        <p xml:lang="ru">Это минорный выпуск содержит только обновления переводов.</p>
         <p xml:lang="sv">Detta är en mindre version endast med nya översättningar.</p>
+        <p xml:lang="tr">Bu, yalnızca küçük bir çeviri sürümüdür.</p>
         <p xml:lang="uk">Це є невеликий випуск лише для перекладу.</p>
         <p xml:lang="zh_CN">这是一个次要的翻译更新版本。</p>
       </description>
@@ -154,13 +197,17 @@
         <p xml:lang="da">Menupunktet Præferencer er blevet fjernet og adskillige oversættelser er inkluderet.</p>
         <p xml:lang="de">Der Menüpunkt "Voreinstellungen" wurde entfernt und mehrere Übersetzungen wurden hinzugefügt.</p>
         <p xml:lang="fr">Le menu préférences a été supprimé, et des traductions ont étés incluses.</p>
+        <p xml:lang="it">La voce di menu Preferenze è stata rimossa e sono state incluse diverse traduzioni.</p>
         <p xml:lang="lt">Nuostatų meniu buvo pašalintas ir buvo įtraukti keli nauji programos vertimai.</p>
         <p xml:lang="ms">Item menu Keutamaan telah dibuang dan beberapa terjemahan telah disertakan.</p>
         <p xml:lang="ms@Arab">ايتم مينو کأوتاماٴن تله دبواڠ دان ببراڤ ترجمهن تله دسرتاکن.</p>
         <p xml:lang="nl">Het voorkeurenmenu-item is verwijderd en er zijn verschillende vertalingen toegevoegd.</p>
         <p xml:lang="pl">Element menu Preferencje został usunięty i dołączono kilka tłumaczeń.</p>
         <p xml:lang="pt">O item de menu Preferências foi removido e várias traduções foram incluídas.</p>
+        <p xml:lang="pt_PT">O item de menu Preferências foi removido e várias traduções foram incluídas.</p>
+        <p xml:lang="ru">Из меню был удалён пункт «Настройки», добавлено несколько переводов.</p>
         <p xml:lang="sv">Menyalternativet Inställningar har tagits bort och flera översättningar har inkluderats.</p>
+        <p xml:lang="tr">Tercihler menü öğesi kaldırıldı ve birkaç çeviri eklendi.</p>
         <p xml:lang="uk">Пункт меню "Налаштування" видалено, та було додано кілька перекладів.</p>
         <p xml:lang="zh_CN">首选项菜单项已被删除，并包含了多个翻译。</p>
       </description>
@@ -173,13 +220,17 @@
         <p xml:lang="es">Los lanzadores inexistentes ya no se muestran. El lanzador de aplicaciones ahora enlaza con el binario correcto.</p>
         <p xml:lang="fi">Käynnistimiä joita ei ole olemassa ei enää näytetä. Sovelluskäynnistin on nyt linkitetty oikeaan binääritiedostoon.</p>
         <p xml:lang="fr">Les lanceurs non-existants ne sont plus affichés. Le lanceur de l'application pointe désormais vers les binaires corrects.</p>
+        <p xml:lang="it">I lanciatori inesistenti non vengono più visualizzati. Il programma di avvio dell'applicazione ora si collega al binario corretto.</p>
         <p xml:lang="lt">Leistukai, kurių nėra, daugiau neberodomi. Programos leistukas dabar susieja su teisinga dvejetaine.</p>
         <p xml:lang="ms">Pelancar yang tidak wujud kini tidak akan dipaparkan lagi. Pelancar aplikasi kini dipautkan ke perduaan yang betul.</p>
         <p xml:lang="ms@Arab">ڤلنچر يڠ تيدق وجود کيني تيدق اکن دڤاڤرکن لاݢي. ڤلنچر اڤليکاسي کيني دڤاٴوتکن کڤردواٴن يڠ بتول.</p>
         <p xml:lang="nl">Niet-bestaande starters worden niet langer getoond. De starter verwijst nu naar de juiste uitvoerbare bestanden.</p>
         <p xml:lang="pl">Nieistniejące skróty nie są już wyświetlane. Program uruchamiający kieruje teraz do prawidłowych plików.</p>
         <p xml:lang="pt">Os lançadores inexistentes já não são exibidos. O lançador da aplicação vincula-se agora ao binário correto.</p>
+        <p xml:lang="pt_PT">Os lançadores inexistentes já não são exibidos. O lançador da aplicação vincula-se agora ao binário correto.</p>
+        <p xml:lang="ru">Несуществующие ссылки на запуск игр больше не отображаются. Теперь программа запуска приложений ссылается на правильный двоичный файл.</p>
         <p xml:lang="sv">Icke-existerande startare visas inte längre. Applikationsstartaren länkar nu till rätt binär.</p>
+        <p xml:lang="tr">Var olmayan başlatıcılar artık görüntülenmiyor. Uygulama başlatıcı artık doğru ikili dosyaya bağlanıyor.</p>
         <p xml:lang="zh_CN">不存在的启动器将不再显示。 现在，应用程序启动器已链接到正确的二进制文件。</p>
       </description>
     </release>

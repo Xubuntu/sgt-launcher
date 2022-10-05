@@ -4,8 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Sean Davis <sean@bluesabre.org>, 2020
-# Hugo Carvalho <hugokarvalho@hotmail.com>, 2021
+# Hugo Carvalho <hugokarvalho@hotmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
@@ -14,19 +13,19 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-11 03:38-0700\n"
 "PO-Revision-Date: 2020-06-10 22:25+0000\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>, 2021\n"
-"Language-Team: Portuguese (https://www.transifex.com/bluesabreorg/teams/99550/pt/)\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>, 2022\n"
+"Language-Team: Portuguese (Portugal) (https://www.transifex.com/bluesabreorg/teams/99550/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_PT\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: ../org.bluesabre.SgtLauncher.desktop.in.h:1
 #: ../sgtlauncher/SgtLauncher.py:39 ../sgtlauncher/SgtLauncher.py:73
 #: ../sgtlauncher/SgtLauncher.py:389
 msgid "SGT Puzzles Collection"
-msgstr "Coleção Quebra-cabeças SGT"
+msgstr "Coleção de Quebra-cabeças SGT"
 
 #: ../org.bluesabre.SgtLauncher.desktop.in.h:2
 msgid "Collection of short puzzle games"
@@ -35,11 +34,11 @@ msgstr "Colecção de pequenos jogos quebra-cabeças"
 #: ../org.bluesabre.SgtLauncher.desktop.in.h:3
 #: ../data/metainfo/sgt-launcher.appdata.xml.in.h:1
 msgid "Launcher for Simon Tatham's Portable Puzzle Collection"
-msgstr "Lançador para a coleção portátil de quebra-cabeças de  Simon Tatham"
+msgstr "Lançador para a coleção portátil de quebra-cabeças de Simon Tatham"
 
 #: ../org.bluesabre.SgtLauncher.desktop.in.h:4
 msgid "Games;Puzzles;"
-msgstr "Jogos;Quebra-cabeças;"
+msgstr "Jogos;Puzzles;Quebra-cabeças;"
 
 #: ../sgtlauncher/SgtLauncher.py:87
 msgid "New Game"
@@ -47,7 +46,7 @@ msgstr "Novo jogo"
 
 #: ../sgtlauncher/SgtLauncher.py:89
 msgid "Undo"
-msgstr "Desfazer"
+msgstr "Anular"
 
 #: ../sgtlauncher/SgtLauncher.py:90
 msgid "Redo"
@@ -80,15 +79,15 @@ msgid ""
 "Portable Puzzle Collection."
 msgstr ""
 "O Coleção Quebra-cabeças SGT é um lançador simples de usar para a coleção "
-"portátil de quebra-cabeças de Simon Tatham"
+"portátil de quebra-cabeças de Simon Tatham."
 
 #: ../data/metainfo/sgt-launcher.appdata.xml.in.h:3
 msgid ""
 "The collection is presented as a related but diverse set of logic games. "
 "Each game is displayed in the launcher window with simplified controls."
 msgstr ""
-"A coleção é apresentada como jogos relacionados, mas diversos, com jogos de "
-"lógica. Cada jogo é exibido na janela do lançador com controlos "
+"A colecção é apresentada como um conjunto relacionado mas diversificado de "
+"jogos lógicos. Cada jogo é apresentado na janela do lançador com controlos "
 "simplificados."
 
 #: ../data/metainfo/sgt-launcher.appdata.xml.in.h:4
