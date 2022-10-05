@@ -14,7 +14,7 @@ Build-Depends: debhelper-compat (= 13),
                python3-distutils-extra (>= 2.18),
                python3-xcffib,
                sgt-puzzles
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0.1
 Rules-Requires-Root: no
 Homepage: https://github.com/bluesabre/sgt-launcher
 Vcs-Git: https://github.com/Xubuntu/sgt-launcher.git

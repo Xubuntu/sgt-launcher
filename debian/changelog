@@ -4,12 +4,13 @@ sgt-launcher (0.2.8-0ubuntu1) UNRELEASED; urgency=medium
     - Add support for new Mosiac game in sgt-puzzles (LP: #1991468)
   * d/control:
     - Add Vcs-{Git,Browser}
+    - Bump Standards-Version to 4.6.0.1
   * d/control, d/copyright:
     - Update email address
   * d/watch:
     - Add hack for retrieving GitHub releases
 
- -- Sean Davis <sean@bluesabre.org>  Tue, 04 Oct 2022 23:05:45 -0400
+ -- Sean Davis <sean@bluesabre.org>  Tue, 04 Oct 2022 23:26:05 -0400
 
 sgt-launcher (0.2.7-0ubuntu1) impish; urgency=medium
 
